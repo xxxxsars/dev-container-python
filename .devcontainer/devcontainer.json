@@ -1,0 +1,17 @@
+{
+    "name": "Python 3",
+    "build": {
+         "dockerfile": "./Dockerfile" ,
+         "context": ".."
+        },
+    "extensions": [
+        "mhutchie.git-graph",
+        "whensunset.chatgpt-china",
+        "cweijan.vscode-mysql-client2",
+        "gruntfuggly.todo-tree",
+        "ms-python.python",
+        "TabNine.tabnine-vscode",
+        "kevinrose.vsc-python-indent"
+    ]
+
+}
